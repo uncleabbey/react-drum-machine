@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.drum-pad {
+  padding: 5px;
+  background-color: black;
+  margin: 5px;
+  color: goldenrod;
+  font-size: 40px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+#display {
+ padding: 5px;
+  background-color: silver;
+  margin: 5px;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.container {
+  border-radius: 20px;
+  background: gold;
+  border: 5px solid black;
+  
+}
